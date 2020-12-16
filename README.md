@@ -3,9 +3,9 @@ Welcome to my portfolio!
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dawsonbooth/emoji-search/issues/1) in [dawsonbooth/emoji-search](https://github.com/dawsonbooth/emoji-search)
-2. 🗣 Commented on [#1](https://github.com/dawsonbooth/emoji-search/issues/1) in [dawsonbooth/emoji-search](https://github.com/dawsonbooth/emoji-search)
-3. 🎉 Merged PR [#1](https://github.com/dawsonbooth/emoji-search/pull/1) in [dawsonbooth/emoji-search](https://github.com/dawsonbooth/emoji-search)
-4. 🎉 Merged PR [#18](https://github.com/dawsonbooth/slippi-search/pull/18) in [dawsonbooth/slippi-search](https://github.com/dawsonbooth/slippi-search)
-5. 🎉 Merged PR [#2](https://github.com/dawsonbooth/react-repo-card/pull/2) in [dawsonbooth/react-repo-card](https://github.com/dawsonbooth/react-repo-card)
+1. 🎉 Merged PR [#18](https://github.com/dawsonbooth/react-native-use-dimensions/pull/18) in [dawsonbooth/react-native-use-dimensions](https://github.com/dawsonbooth/react-native-use-dimensions)
+2. 🎉 Merged PR [#3](https://github.com/dawsonbooth/react-repo-card/pull/3) in [dawsonbooth/react-repo-card](https://github.com/dawsonbooth/react-repo-card)
+3. 🗣 Commented on [#3](https://github.com/dawsonbooth/ascii-art/issues/3) in [dawsonbooth/ascii-art](https://github.com/dawsonbooth/ascii-art)
+4. ❗️ Closed issue [#2](https://github.com/dawsonbooth/ascii-art/issues/2) in [dawsonbooth/ascii-art](https://github.com/dawsonbooth/ascii-art)
+5. 🗣 Commented on [#2](https://github.com/dawsonbooth/ascii-art/issues/2) in [dawsonbooth/ascii-art](https://github.com/dawsonbooth/ascii-art)
 <!--END_SECTION:activity-->
