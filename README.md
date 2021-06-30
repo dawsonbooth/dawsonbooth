@@ -3,9 +3,9 @@ Welcome to my portfolio!
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/Headstorm/foundry-ui/issues/233) in [Headstorm/foundry-ui](https://github.com/Headstorm/foundry-ui)
-2. 🎉 Merged PR [#13](https://github.com/dawsonbooth/react-repo-card/pull/13) in [dawsonbooth/react-repo-card](https://github.com/dawsonbooth/react-repo-card)
-3. 🎉 Merged PR [#25](https://github.com/dawsonbooth/react-native-use-dimensions/pull/25) in [dawsonbooth/react-native-use-dimensions](https://github.com/dawsonbooth/react-native-use-dimensions)
-4. 🎉 Merged PR [#11](https://github.com/dawsonbooth/react-repo-card/pull/11) in [dawsonbooth/react-repo-card](https://github.com/dawsonbooth/react-repo-card)
-5. 🎉 Merged PR [#23](https://github.com/dawsonbooth/slippi-search/pull/23) in [dawsonbooth/slippi-search](https://github.com/dawsonbooth/slippi-search)
+1. ❗️ Closed issue [#6](https://github.com/Headstorm/foundry-native-ui/issues/6) in [Headstorm/foundry-native-ui](https://github.com/Headstorm/foundry-native-ui)
+2. 💪 Opened PR [#18](https://github.com/Headstorm/foundry-native-ui/pull/18) in [Headstorm/foundry-native-ui](https://github.com/Headstorm/foundry-native-ui)
+3. 🗣 Commented on [#235](https://github.com/Headstorm/foundry-ui/issues/235) in [Headstorm/foundry-ui](https://github.com/Headstorm/foundry-ui)
+4. 💪 Opened PR [#235](https://github.com/Headstorm/foundry-ui/pull/235) in [Headstorm/foundry-ui](https://github.com/Headstorm/foundry-ui)
+5. 🗣 Commented on [#233](https://github.com/Headstorm/foundry-ui/issues/233) in [Headstorm/foundry-ui](https://github.com/Headstorm/foundry-ui)
 <!--END_SECTION:activity-->
