@@ -3,9 +3,9 @@ Welcome to my portfolio!
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/yobgob/too-many-hooks/issues/55) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-2. 🗣 Commented on [#56](https://github.com/yobgob/too-many-hooks/issues/56) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-3. ❗️ Closed issue [#58](https://github.com/yobgob/too-many-hooks/issues/58) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-4. 🎉 Merged PR [#57](https://github.com/yobgob/too-many-hooks/pull/57) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-5. ❗️ Closed issue [#47](https://github.com/yobgob/too-many-hooks/issues/47) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
+1. ❌ Closed PR [#8](https://github.com/PatrickDeVries/logseq-plugin-colored-threads/pull/8) in [PatrickDeVries/logseq-plugin-colored-threads](https://github.com/PatrickDeVries/logseq-plugin-colored-threads)
+2. 💪 Opened PR [#8](https://github.com/PatrickDeVries/logseq-plugin-colored-threads/pull/8) in [PatrickDeVries/logseq-plugin-colored-threads](https://github.com/PatrickDeVries/logseq-plugin-colored-threads)
+3. 🗣 Commented on [#730](https://github.com/anymaniax/orval/issues/730#issuecomment-1758089897) in [anymaniax/orval](https://github.com/anymaniax/orval)
+4. 🎉 Merged PR [#78](https://github.com/yobgob/too-many-hooks/pull/78) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
+5. 💪 Opened PR [#78](https://github.com/yobgob/too-many-hooks/pull/78) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
 <!--END_SECTION:activity-->
