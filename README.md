@@ -3,9 +3,9 @@ Welcome to my portfolio!
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1862](https://github.com/orval-labs/orval/issues/1862) in [orval-labs/orval](https://github.com/orval-labs/orval)
-2. 💪 Opened PR [#1830](https://github.com/orval-labs/orval/pull/1830) in [orval-labs/orval](https://github.com/orval-labs/orval)
-3. 🎉 Merged PR [#108](https://github.com/yobgob/too-many-hooks/pull/108) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-4. 🗣 Commented on [#66](https://github.com/yobgob/too-many-hooks/issues/66#issuecomment-2506920991) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
-5. 💪 Opened PR [#108](https://github.com/yobgob/too-many-hooks/pull/108) in [yobgob/too-many-hooks](https://github.com/yobgob/too-many-hooks)
+1. 🗣 Commented on [#15279](https://github.com/getsentry/sentry-javascript/issues/15279#issuecomment-2632359635) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+2. 🗣 Commented on [#15279](https://github.com/getsentry/sentry-javascript/issues/15279#issuecomment-2632326431) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+3. 🗣 Commented on [#15279](https://github.com/getsentry/sentry-javascript/issues/15279#issuecomment-2632093575) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. ❗ Opened issue [#15279](https://github.com/getsentry/sentry-javascript/issues/15279) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+5. ❗ Opened issue [#1862](https://github.com/orval-labs/orval/issues/1862) in [orval-labs/orval](https://github.com/orval-labs/orval)
 <!--END_SECTION:activity-->
